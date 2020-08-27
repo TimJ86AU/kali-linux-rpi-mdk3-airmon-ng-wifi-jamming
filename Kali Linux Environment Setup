@@ -1,1 +1,5 @@
-Kali Linux Environment Setup.
+// Kali Linux Environment Setup //
+
+* Update Kali Linux Operating System by using this Command in Terminal.
+
+* Sudo Apt Update -y && Sudo Apt Upgrade -y
