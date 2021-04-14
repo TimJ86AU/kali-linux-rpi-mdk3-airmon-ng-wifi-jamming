@@ -1,2 +1,8 @@
-# kali-linux-rpi-mdk3-airmom-ng-wifi-jamming
-Wireless - WiFi Jamming - Raspberry PI (RPI) Using Airmon-ng / MDK3
+# kali-linux-rpi3-wireless-jamming
+
+Raspberry PI (RPI 3B+ or RPI 4)
+Wireless / WiFi Jamming
+Airmon-Ng - Monitor Mode
+MDK3 - Packet Injection
+
+.....
